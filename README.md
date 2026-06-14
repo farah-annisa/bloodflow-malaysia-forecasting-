@@ -106,7 +106,7 @@ bloodflow-malaysia-forecasting/
 
 ## 📸 Dashboard Preview
 
-![Overview Dashboard](images/dashboard_overview.png)
+![Overview Dashboard](images/dashboard_overview.jpg)
 
 🔗 Live at: https://blood-donation-wqd7001-group12.streamlit.app/
 
