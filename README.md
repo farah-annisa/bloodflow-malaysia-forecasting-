@@ -87,6 +87,9 @@ bloodflow-malaysia-forecasting/
 ├── notebooks/
 │   └── BloodDonation_GA2_FINAL.ipynb
 │
+├── images/
+│   └── dashboard_overview.jpg
+│
 ├── outputs/          ← auto-generated CSVs for dashboard
 │
 └── README.md
@@ -101,6 +104,12 @@ bloodflow-malaysia-forecasting/
 3. The notebook fetches D1 live from data.gov.my — no manual data prep needed
 4. Runtime: approximately 3–5 minutes
 5. Download the `outputs/` folder and replace CSVs in this repo to update the dashboard
+
+```bash
+git clone https://github.com/Farah-Annisa/bloodflow-malaysia-forecasting.git
+cd bloodflow-malaysia-forecasting
+pip install -r requirements.txt
+```
 
 ---
 
@@ -135,8 +144,9 @@ bloodflow-malaysia-forecasting/
 
 ## 🎓 Academic Context
 
-**Course:** WQD7001 — Principles of Data Science (GA2)  
-**Institution:** Universiti Malaya (UM), Faculty of Computer Science & IT  
-**Programme:** Master of Data Science  
-**Semester:** 2, Session 2025/2026  
+**Course:** WQD7001 — Principles of Data Science (GA2)
+**Institution:** Universiti Malaya (UM), Faculty of Computer Science & IT
+**Programme:** Master of Data Science
+**Semester:** 2, Session 2025/2026
 **Lecturer:** Assoc. Prof. Dr. Maizatul Akmar Binti Ismail
+
